@@ -41,10 +41,10 @@ print(ar,type(ar))
 
 # %%
 # 자유로운 동일한 형변환
- a=range(10)
-print(a,type(a),ar,type((ar))
-for i in range(10):
-    print(i)
+#  a=range(10)
+# print(a,type(a),ar,type((ar))
+# for i in range(10):
+#     print(i)
 
 # %%
 # 형태변환(차원변환)이 자유로움
